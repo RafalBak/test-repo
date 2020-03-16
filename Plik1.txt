@@ -3,4 +3,6 @@ Zmiana2 Zmiana2a
 Zmiana3
 Zmiana4 Zmiana4a
 Zmiana5
-Naprawa b³êdów - hotFix-001
+Dodano asystenta pomocy
+1Interfejs graficzny
+easierApp
