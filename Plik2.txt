@@ -1,2 +1,3 @@
 Zmiana
 Dodano asystenta pomocy
+Interfejs graficzny
