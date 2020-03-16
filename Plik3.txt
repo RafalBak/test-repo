@@ -2,3 +2,4 @@ Zmiana
 Dodano asystenta pomocy
 Interfejs graficzny
 ZmianaZmiana
+ZmianaFake
