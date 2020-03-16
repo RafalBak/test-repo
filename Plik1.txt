@@ -7,3 +7,4 @@ Dodano asystenta pomocy
 1Interfejs graficzny
 easierApp
 Witam
+Zmiana13
