@@ -4,3 +4,4 @@ Interfejs graficzny
 ZmianaZmiana
 ZmianaFake
 Zmiana11
+Zmiana16
