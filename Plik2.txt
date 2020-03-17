@@ -3,3 +3,4 @@ Dodano asystenta pomocy
 Interfejs graficzny
 Czesc
 ZmianaZmiana
+Zmiana17
